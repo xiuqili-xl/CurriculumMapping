@@ -11,8 +11,8 @@ This repository is organized into three folders
   + __ConceptDiagram.R__: code used to generated Figure 1. Concept diagram of our competency framework
   + __CurriculumMap.R__: code used to generate Figure 2. Partial curriculum map and Figure S1. Full curriculum map of the HMS BBS graduate program (AY 2022-2023)
 * __data__ contains data used for analysis. Specifically it contains
-  + __CompetencyList.csv__: data frame of all competencies
-  + __CurriculumMapping.csv__: curriculum mapping dataset post semi-structured interviews (course identifiers and Curriculum Fellow contact info has been obtained)
+  + __CompetencyList.csv__: data frame containing all competencies
+  + __CurriculumMapping.csv__: curriculum mapping dataset post semi-structured interviews (course identifiers and Curriculum Fellow contact info have been obtained)
 * __figures__ contains figures generated through coding
   + Microsoft Powerpoint was used for subsequent annotations. See __{OSF link}__ for files 
 
