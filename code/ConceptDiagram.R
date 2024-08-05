@@ -1,5 +1,5 @@
 # //////////////////////////////////////////////////////////////
-# ---- Figure 1. Concept Diagram of Competency Framework ----
+# ---- Figure 1. Concept diagram of competency framework ----
 # /////////////////////////////////////////////////////////////
 
 
@@ -8,11 +8,8 @@ library(tidyverse)
 library(here)
 
 
-## Import data ----
+## Import and wrangle data ----
 competency_list <- read_csv(file = here("data", "CompetencyList.csv"))
-
-
-## Wrangle data ----
 comp_area <- unique(competency_list$area)
 
 competency_graph <- competency_list %>%
