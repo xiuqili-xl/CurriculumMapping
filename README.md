@@ -1,5 +1,5 @@
 # Curriculum Mapping
-_Repository for the Competency-based Curriculum Mapping Project_
+_Repository for the Competency-based Curriculum Mapping Manuscript_
 
 ## Overview
 This repository contains the data and code to generate figures in the manuscript, "Competency-based Curriculum Mapping for Doctoral Program Evaluation" by Xiuqi Li, Jelena Patrnogić, and David Van Vactor.
