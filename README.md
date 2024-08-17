@@ -12,9 +12,9 @@ This repository is organized into three folders
   + __CurriculumMap.R__: code used to generate Figure 2. Partial curriculum map and Figure S1. Full curriculum map of the HMS BBS graduate program (AY 2022-2023)
 * __data__ contains data used for analysis. Specifically it contains
   + __CompetencyList.csv__: data frame containing all competencies
-  + __CurriculumMapping.csv__: curriculum mapping dataset post semi-structured interviews (course identifiers and Curriculum Fellow contact info have been obtained)
+  + __CurriculumMapping.csv__: curriculum mapping dataset post semi-structured interviews (course identifiers and Curriculum Fellow contact info have been removed)
 * __figures__ contains figures generated through coding
-  + Microsoft Powerpoint was used for subsequent annotations. See __{OSF link}__ for files 
+  + Microsoft Powerpoint was used for subsequent annotations. See [OSF link](https://osf.io/x8cj5/) for files 
 
 ## Session info
 Obtained using `utils:::print.sessionInfo(sessionInfo()[-8])`
