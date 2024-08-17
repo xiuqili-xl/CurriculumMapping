@@ -14,7 +14,7 @@ This repository is organized into three folders
   + __CompetencyList.csv__: data frame containing all competencies
   + __CurriculumMapping.csv__: curriculum mapping dataset post semi-structured interviews (course identifiers and Curriculum Fellow contact info have been removed)
 * __figures__ contains figures generated through coding
-  + Microsoft Powerpoint was used for subsequent annotations. See [OSF link](https://osf.io/x8cj5/) for files 
+  + Microsoft Powerpoint was used for subsequent annotations. See [OSF](https://osf.io/x8cj5/) for files 
 
 ## Session info
 Obtained using `utils:::print.sessionInfo(sessionInfo()[-8])`
