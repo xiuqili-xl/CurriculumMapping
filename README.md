@@ -3,7 +3,8 @@ _Repository for the Competency-based Curriculum Mapping Manuscript_
 
 ## Overview
 This repository contains the data and code used to generate figures in the manuscript, "Competency-based Curriculum Mapping for Doctoral Program Evaluation" by Xiuqi Li, Jelena Patrnogić, and David Van Vactor.
-* Preprint of the manuscript can be accessed on __{PLATFORM TBA}__ 
+* Preprint of the manuscript can be accessed on __{PLATFORM TBA}__
+* Related OSF repository can be accessed [here](https://osf.io/8qexb/)
 
 ## Repo Organization
 This repository is organized into three folders
