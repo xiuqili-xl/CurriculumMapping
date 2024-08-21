@@ -2,7 +2,7 @@
 _Repository for the Competency-based Curriculum Mapping Manuscript_
 
 ## Overview
-This repository contains the data and code to generate figures in the manuscript, "Competency-based Curriculum Mapping for Doctoral Program Evaluation" by Xiuqi Li, Jelena Patrnogić, and David Van Vactor.
+This repository contains the data and code used to generate figures in the manuscript, "Competency-based Curriculum Mapping for Doctoral Program Evaluation" by Xiuqi Li, Jelena Patrnogić, and David Van Vactor.
 * Preprint of the manuscript can be accessed on __{PLATFORM TBA}__ 
 
 ## Repo Organization
@@ -10,11 +10,11 @@ This repository is organized into three folders
 * __code__ contains code used to wrangle data and generate visuals. Specifically, it contains
   + __ConceptDiagram.R__: code used to generated Figure 1. Concept diagram of our competency framework
   + __CurriculumMap.R__: code used to generate Figure 2. Partial curriculum map and Figure S1. Full curriculum map of the HMS BBS graduate program (AY 2022-2023)
-* __data__ contains data used for analysis. Specifically it contains
+* __data__ contains data used for analysis. Specifically, it contains
   + __CompetencyList.csv__: data frame containing all competencies
   + __CurriculumMapping.csv__: curriculum mapping dataset post semi-structured interviews (course identifiers and Curriculum Fellow contact info have been removed)
 * __figures__ contains figures generated through coding
-  + Microsoft Powerpoint was used for subsequent annotations. See [OSF](https://osf.io/x8cj5/) for files 
+  + Microsoft Powerpoint was used for subsequent annotations. See [OSF](https://osf.io/x8cj5/) for relevant files 
 
 ## Session info
 Obtained using `utils:::print.sessionInfo(sessionInfo()[-8])`
